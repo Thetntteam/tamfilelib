@@ -106,3 +106,5 @@ Parameters:
 index (int): The index of the media item to extract.
 output_path (str): The file path where the extracted media will be saved.
 Description: Extracts a specific media item from the TAM file by its index and saves it to the specified output path.
+
+If you need help join https://discord.gg/ADFYwR8jvg
